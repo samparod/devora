@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" fill="none" role="img" aria-label="Devora">
+  <defs>
+    <linearGradient id="dn" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f5e6b8"/>
+      <stop offset="50%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#b8941f"/>
+    </linearGradient>
+  </defs>
+  <circle cx="22" cy="22" r="18" stroke="url(#dn)" stroke-width="0.8" fill="none"/>
+  <text x="22" y="27" text-anchor="middle" fill="url(#dn)" font-family="Georgia, serif" font-size="16" font-style="italic">D</text>
+  <text x="52" y="20" fill="url(#dn)" font-family="Georgia, serif" font-size="18" letter-spacing="5">DEVORA</text>
+  <text x="52" y="34" fill="url(#dn)" font-family="Arial, sans-serif" font-size="5.5" letter-spacing="2.5" opacity="0.75">BEAUTY LOUNGE</text>
+</svg>
